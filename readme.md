@@ -1,4 +1,4 @@
-# UAS - 06TPLM001 - KELOMPOK 2 - 181011401732 - Arnold Agusti Pratama
+# UAS - 06TPLM001 - KELOMPOK 2 - 181011402409 - Dian Noviyanto
 
 Repository Jawaban UAS Mata Kuliah Pemrograman Web 2 Kelas 06TPLM001
 
